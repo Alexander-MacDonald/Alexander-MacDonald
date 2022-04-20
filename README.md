@@ -1,4 +1,4 @@
-### Hi, I’m @Alexander-MacDonald
+### :wave:Hi, I’m @Alexander-MacDonald:wave:
 #### I’m interested in enterprise software and financial technologies.
 #### I’m currently studying at Worcester Polytechnic Institute.
 #### aemacdonald@wpi.edu
