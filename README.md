@@ -1,4 +1,4 @@
-#👋 Hi, I’m @Alexander-MacDonald 👋
+#Hi, I’m @Alexander-MacDonald
 #👀 I’m interested in enterprise software and financial technologies. 👀
 #🌱 I’m currently studying at Worcester Polytechnic Institute. 🌱
 #📫 aemacdonald@wpi.edu 📫
